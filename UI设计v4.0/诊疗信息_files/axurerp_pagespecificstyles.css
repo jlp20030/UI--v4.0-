@@ -1,0 +1,2428 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../诊疗信息_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:-480px;
+    top:491px;
+    width:475px;
+    height:230px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:475px;
+    height:230px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:471px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../诊疗信息_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:486px;
+    height:806px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u6 {
+    position:absolute;
+    left:0px;
+    top:111px;
+    width:481px;
+    height:610px;
+    overflow:hidden;
+}
+
+#pd7u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u7_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u9 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u10 {
+    position:absolute;
+    left:132px;
+    top:80px;
+    width:82px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u11 {
+    position:absolute;
+    left:240px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u12 {
+    position:absolute;
+    left:342px;
+    top:80px;
+    width:106px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:350px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:350px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:167px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../诊疗信息_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u17 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u18_normal {
+    background-image: url('../诊疗信息_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:0px;
+    top:138px;
+    width:480px;
+    height:510px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd6u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u20_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u22 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u23 {
+    position:absolute;
+    left:132px;
+    top:51px;
+    width:82px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u24 {
+    position:absolute;
+    left:240px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u25 {
+    position:absolute;
+    left:342px;
+    top:51px;
+    width:106px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u26_container {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:350px;
+}
+
+#u26_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:350px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:167px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../诊疗信息_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u28_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u30 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u31_normal {
+    background-image: url('../诊疗信息_files/u18_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:0px;
+    top:118px;
+    width:480px;
+    height:510px;
+}
+
+#u31_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd5u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u33_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u35 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u36 {
+    position:absolute;
+    left:142px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u37 {
+    position:absolute;
+    left:244px;
+    top:80px;
+    width:125px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u38 {
+    position:absolute;
+    left:392px;
+    top:80px;
+    width:72px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u39_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:350px;
+}
+
+#u39_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:350px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:167px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../诊疗信息_files/u15_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u43 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u44_normal {
+    background-image: url('../诊疗信息_files/u18_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:0px;
+    top:148px;
+    width:480px;
+    height:510px;
+}
+
+#u44_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd4u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u46_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u46_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u48 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u49 {
+    position:absolute;
+    left:142px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u50 {
+    position:absolute;
+    left:244px;
+    top:51px;
+    width:125px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u51 {
+    position:absolute;
+    left:392px;
+    top:51px;
+    width:72px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u52_container {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:350px;
+}
+
+#u52_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:350px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:167px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../诊疗信息_files/u28_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u56 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u57_normal {
+    background-image: url('../诊疗信息_files/u18_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:0px;
+    top:118px;
+    width:480px;
+    height:510px;
+}
+
+#u57_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd3u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u59_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u61 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u62 {
+    position:absolute;
+    left:142px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u63 {
+    position:absolute;
+    left:277px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u64 {
+    position:absolute;
+    left:375px;
+    top:80px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u65_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:350px;
+}
+
+#u65_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:350px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:167px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../诊疗信息_files/u15_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u67_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u69 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u70_normal {
+    background-image: url('../诊疗信息_files/u18_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:0px;
+    top:148px;
+    width:480px;
+    height:510px;
+}
+
+#u70_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd2u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u72_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u72_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u74 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u75 {
+    position:absolute;
+    left:142px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u76 {
+    position:absolute;
+    left:277px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u77 {
+    position:absolute;
+    left:375px;
+    top:51px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u78_container {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:350px;
+}
+
+#u78_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:350px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:167px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../诊疗信息_files/u28_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u80_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u82 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u83_normal {
+    background-image: url('../诊疗信息_files/u18_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:0px;
+    top:118px;
+    width:480px;
+    height:510px;
+}
+
+#u83_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u85_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u85_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../诊疗信息_files/u87_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:82px;
+    top:259px;
+    width:315px;
+    height:271px;
+}
+
+#u87_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:315px;
+    height:271px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:128px;
+    width:311px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../诊疗信息_files/u89_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:53px;
+}
+
+#u89_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:53px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u91 {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:53px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u92 {
+    position:absolute;
+    left:6px;
+    top:259px;
+    width:474px;
+    height:298px;
+    overflow:hidden;
+}
+
+#pd0u92 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:474px;
+    height:298px;
+    
+}
+
+.u93_normal {
+    background-image: url('../诊疗信息_files/u93_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+#u93_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:469px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u95 {
+    position:absolute;
+    left:423px;
+    top:10px;
+    width:35px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u96_normal {
+    background-image: url('../诊疗信息_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:33px;
+    top:120px;
+    width:71px;
+    height:31px;
+}
+
+#u96_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:71px;
+    height:31px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../诊疗信息_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:183px;
+    top:125px;
+    width:72px;
+    height:26px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:72px;
+    height:26px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u100 {
+    position:absolute;
+    left:24px;
+    top:79px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u101 {
+    position:absolute;
+    left:165px;
+    top:79px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u102 {
+    position:absolute;
+    left:270px;
+    top:79px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u103 {
+    position:absolute;
+    left:372px;
+    top:79px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u104_normal {
+    background-image: url('../诊疗信息_files/u15_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u104_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u106 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u107_normal {
+    background-image: url('../诊疗信息_files/u107_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:26px;
+    top:179px;
+    width:342px;
+    height:363px;
+}
+
+#u107_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:342px;
+    height:363px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:174px;
+    width:338px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:610px;
+    
+}
+
+.u109_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u109_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../诊疗信息_files/u87_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:82px;
+    top:230px;
+    width:315px;
+    height:271px;
+}
+
+#u111_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:315px;
+    height:271px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:128px;
+    width:311px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../诊疗信息_files/u89_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:53px;
+}
+
+#u113_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:53px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u115 {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:53px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u116 {
+    position:absolute;
+    left:6px;
+    top:230px;
+    width:474px;
+    height:298px;
+    overflow:hidden;
+}
+
+#pd0u116 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:474px;
+    height:298px;
+    
+}
+
+.u117_normal {
+    background-image: url('../诊疗信息_files/u93_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+#u117_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:469px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u119 {
+    position:absolute;
+    left:423px;
+    top:10px;
+    width:35px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u120_normal {
+    background-image: url('../诊疗信息_files/u96_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:33px;
+    top:91px;
+    width:71px;
+    height:31px;
+}
+
+#u120_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:71px;
+    height:31px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../诊疗信息_files/u98_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:183px;
+    top:96px;
+    width:72px;
+    height:26px;
+}
+
+#u122_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:72px;
+    height:26px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u124 {
+    position:absolute;
+    left:24px;
+    top:50px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u125 {
+    position:absolute;
+    left:165px;
+    top:50px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u126 {
+    position:absolute;
+    left:270px;
+    top:50px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u127 {
+    position:absolute;
+    left:372px;
+    top:50px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u128_normal {
+    background-image: url('../诊疗信息_files/u28_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u128_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u130 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u131_normal {
+    background-image: url('../诊疗信息_files/u107_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:26px;
+    top:179px;
+    width:342px;
+    height:363px;
+}
+
+#u131_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:342px;
+    height:363px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:174px;
+    width:338px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../诊疗信息_files/u133_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:143px;
+    top:728px;
+    width:76px;
+    height:59px;
+}
+
+#u133_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:76px;
+    height:59px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:72px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u135 {
+    position:absolute;
+    left:13px;
+    top:731px;
+    width:98px;
+    height:57px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u136 {
+    position:absolute;
+    left:243px;
+    top:731px;
+    width:98px;
+    height:57px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u137 {
+    position:absolute;
+    left:98px;
+    top:312px;
+    width:284px;
+    height:169px;
+    overflow:hidden;
+}
+
+#pd0u137 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:284px;
+    height:169px;
+    
+}
+
+.u138_normal {
+    background-image: url('../诊疗信息_files/u138_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:283px;
+    height:168px;
+}
+
+#u138_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:283px;
+    height:168px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:76px;
+    width:279px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u140 {
+    position:absolute;
+    left:16px;
+    top:20px;
+    width:247px;
+    height:127px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u141_normal {
+    background-image: url('../诊疗信息_files/u141_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:74px;
+}
+
+#u141_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:74px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:29px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u143 {
+    position:absolute;
+    left:11px;
+    top:12px;
+    width:126px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u144 {
+    position:absolute;
+    left:395px;
+    top:12px;
+    width:70px;
+    height:56px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u145_normal {
+    background-image: url('../诊疗信息_files/u145_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:143px;
+    top:731px;
+    width:69px;
+    height:55px;
+}
+
+#u145_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:69px;
+    height:55px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../诊疗信息_files/u147_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:379px;
+    top:732px;
+    width:57px;
+    height:56px;
+}
+
+#u147_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:57px;
+    height:56px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u149 {
+    position:absolute;
+    left:123px;
+    top:725px;
+    width:107px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u150_normal {
+    background-image: url('../诊疗信息_files/u150_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:383px;
+    top:734px;
+    width:61px;
+    height:52px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:61px;
+    height:52px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u152 {
+    position:absolute;
+    left:352px;
+    top:731px;
+    width:110px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

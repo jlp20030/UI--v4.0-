@@ -1,0 +1,3790 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../临床知识_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:486px;
+    height:806px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u4 {
+    position:absolute;
+    left:0px;
+    top:111px;
+    width:481px;
+    height:611px;
+    overflow:hidden;
+}
+
+#pd5u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:611px;
+    
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u7 {
+    position:absolute;
+    left:142px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u8 {
+    position:absolute;
+    left:265px;
+    top:80px;
+    width:125px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u9 {
+    position:absolute;
+    left:0px;
+    top:162px;
+    width:481px;
+    height:448px;
+    overflow:hidden;
+}
+
+#pd1u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:448px;
+    
+}
+
+.u10_normal {
+    background-image: url('../临床知识_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:371px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:371px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:178px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../临床知识_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:448px;
+    top:72px;
+    width:28px;
+    height:23px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:23px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u16_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u20 {
+    position:absolute;
+    left:0px;
+    top:55px;
+    width:480px;
+    height:201px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u21_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:448px;
+    
+}
+
+.u23_normal {
+    background-image: url('../临床知识_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:222px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:222px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:103px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u31 {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:51px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u32_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../临床知识_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u34_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u36 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u37_normal {
+    background-image: url('../临床知识_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:24px;
+    top:86px;
+    width:99px;
+    height:29px;
+}
+
+#u37_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:29px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u39 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd4u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:611px;
+    
+}
+
+.u40_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u40_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u42 {
+    position:absolute;
+    left:142px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u43 {
+    position:absolute;
+    left:265px;
+    top:51px;
+    width:125px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u44 {
+    position:absolute;
+    left:0px;
+    top:133px;
+    width:481px;
+    height:478px;
+    overflow:hidden;
+}
+
+#pd1u44 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:478px;
+    
+}
+
+.u45_normal {
+    background-image: url('../临床知识_files/u10_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:371px;
+}
+
+#u45_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:371px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:178px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../临床知识_files/u14_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:448px;
+    top:72px;
+    width:28px;
+    height:23px;
+}
+
+#u49_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:23px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u51_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u53_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u55 {
+    position:absolute;
+    left:0px;
+    top:55px;
+    width:480px;
+    height:201px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u56_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u44 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:478px;
+    
+}
+
+.u58_normal {
+    background-image: url('../临床知识_files/u23_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:222px;
+}
+
+#u58_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:222px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:103px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u60_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u62_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u64_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u66 {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:51px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u67_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../临床知识_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u69_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u71 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u72_normal {
+    background-image: url('../临床知识_files/u37_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:26px;
+    top:55px;
+    width:99px;
+    height:29px;
+}
+
+#u72_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:29px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u74 {
+    position:absolute;
+    left:14px;
+    top:49px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd3u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:611px;
+    
+}
+
+.u75_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u75_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u77 {
+    position:absolute;
+    left:142px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u78 {
+    position:absolute;
+    left:277px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u79 {
+    position:absolute;
+    left:0px;
+    top:162px;
+    width:481px;
+    height:407px;
+    overflow:hidden;
+}
+
+#pd1u79 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:407px;
+    
+}
+
+.u80_normal {
+    background-image: url('../临床知识_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:412px;
+}
+
+#u80_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:412px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:198px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u82_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u84_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u86_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u88 {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:201px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u89_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u79 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:407px;
+    
+}
+
+.u91_normal {
+    background-image: url('../临床知识_files/u91_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:265px;
+}
+
+#u91_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:265px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:124px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u93_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u95_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u97_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u99 {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:51px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u100_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../临床知识_files/u34_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u102_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u104 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u105_normal {
+    background-image: url('../临床知识_files/u37_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:25px;
+    top:80px;
+    width:99px;
+    height:29px;
+}
+
+#u105_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:29px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u107 {
+    position:absolute;
+    left:9px;
+    top:78px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:611px;
+    
+}
+
+.u108_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u108_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u110 {
+    position:absolute;
+    left:142px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u111 {
+    position:absolute;
+    left:277px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u112 {
+    position:absolute;
+    left:0px;
+    top:133px;
+    width:481px;
+    height:477px;
+    overflow:hidden;
+}
+
+#pd1u112 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:477px;
+    
+}
+
+.u113_normal {
+    background-image: url('../临床知识_files/u80_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:412px;
+}
+
+#u113_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:412px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:198px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u115_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u117_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u119_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u121 {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:201px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u122_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u112 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:477px;
+    
+}
+
+.u124_normal {
+    background-image: url('../临床知识_files/u91_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:265px;
+}
+
+#u124_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:265px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:124px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u126_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u128_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u130_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u132 {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:51px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u133_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../临床知识_files/u69_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u135_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u137 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u138_normal {
+    background-image: url('../临床知识_files/u37_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:27px;
+    top:51px;
+    width:99px;
+    height:29px;
+}
+
+#u138_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:29px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u140 {
+    position:absolute;
+    left:14px;
+    top:49px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd1u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:611px;
+    
+}
+
+.u141_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u141_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u143 {
+    position:absolute;
+    left:155px;
+    top:80px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u144 {
+    position:absolute;
+    left:260px;
+    top:80px;
+    width:116px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u145 {
+    position:absolute;
+    left:0px;
+    top:162px;
+    width:481px;
+    height:449px;
+    overflow:hidden;
+}
+
+#pd1u145 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:449px;
+    
+}
+
+.u146_normal {
+    background-image: url('../临床知识_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:398px;
+}
+
+#u146_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:398px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:191px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u148_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u152_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u154 {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:123px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u155_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u145 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:449px;
+    
+}
+
+.u157_normal {
+    background-image: url('../临床知识_files/u157_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:340px;
+}
+
+#u157_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:340px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:162px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u159_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u161_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u163 {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:81px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u164_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../临床知识_files/u34_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u166_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u168 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u169_normal {
+    background-image: url('../临床知识_files/u169_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:28px;
+    top:83px;
+    width:96px;
+    height:29px;
+}
+
+#u169_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:96px;
+    height:29px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:92px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u171 {
+    position:absolute;
+    left:17px;
+    top:77px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:611px;
+    
+}
+
+.u172_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u172_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u174 {
+    position:absolute;
+    left:155px;
+    top:51px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u175 {
+    position:absolute;
+    left:260px;
+    top:51px;
+    width:116px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u176 {
+    position:absolute;
+    left:0px;
+    top:133px;
+    width:481px;
+    height:430px;
+    overflow:hidden;
+}
+
+#pd1u176 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:430px;
+    
+}
+
+.u177_normal {
+    background-image: url('../临床知识_files/u146_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:398px;
+}
+
+#u177_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:398px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:191px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u179_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u181_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:510px;
+}
+
+#u183_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u185 {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:123px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u186_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u176 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:430px;
+    
+}
+
+.u188_normal {
+    background-image: url('../临床知识_files/u157_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:0px;
+    top:57px;
+    width:480px;
+    height:340px;
+}
+
+#u188_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:340px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:162px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../临床知识_files/u12_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:480px;
+    height:38px;
+}
+
+#u190_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:38px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../临床知识_files/u16_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:73px;
+    top:11px;
+    width:370px;
+    height:30px;
+}
+
+#u192_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:30px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:366px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../临床知识_files/u18_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:0px;
+    top:-30px;
+    width:480px;
+    height:510px;
+}
+
+#u194_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u196 {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:480px;
+    height:81px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u197_normal {
+    background-image: url('../临床知识_files/u21_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:66px;
+    top:9px;
+    width:332px;
+    height:34px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:338px;
+    height:40px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:328px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../临床知识_files/u69_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u199_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u201 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u202_normal {
+    background-image: url('../临床知识_files/u169_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:28px;
+    top:54px;
+    width:96px;
+    height:29px;
+}
+
+#u202_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:96px;
+    height:29px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:92px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u204 {
+    position:absolute;
+    left:17px;
+    top:48px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u205_normal {
+    background-image: url('../临床知识_files/u205_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:5px;
+    top:721px;
+    width:466px;
+    height:72px;
+}
+
+#u205_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:466px;
+    height:72px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:462px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u207 {
+    position:absolute;
+    left:17px;
+    top:731px;
+    width:98px;
+    height:57px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u208 {
+    position:absolute;
+    left:247px;
+    top:731px;
+    width:98px;
+    height:57px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u209 {
+    position:absolute;
+    left:98px;
+    top:312px;
+    width:284px;
+    height:169px;
+    overflow:hidden;
+}
+
+#pd0u209 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:284px;
+    height:169px;
+    
+}
+
+.u210_normal {
+    background-image: url('../临床知识_files/u210_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:283px;
+    height:168px;
+}
+
+#u210_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:283px;
+    height:168px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:76px;
+    width:279px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u212 {
+    position:absolute;
+    left:16px;
+    top:20px;
+    width:247px;
+    height:127px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u213_normal {
+    background-image: url('../临床知识_files/u213_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:74px;
+}
+
+#u213_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:74px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:29px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u215 {
+    position:absolute;
+    left:11px;
+    top:12px;
+    width:119px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u216 {
+    position:absolute;
+    left:395px;
+    top:12px;
+    width:70px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u217_normal {
+    background-image: url('../临床知识_files/u217_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:148px;
+    top:732px;
+    width:67px;
+    height:53px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:73px;
+    height:59px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:63px;
+    height:58px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_normal {
+    background-image: url('../临床知识_files/u219_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:146px;
+    top:730px;
+    width:69px;
+    height:55px;
+}
+
+#u219_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:69px;
+    height:55px;
+}
+
+.u220 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u221 {
+    position:absolute;
+    left:125px;
+    top:726px;
+    width:107px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u222_normal {
+    background-image: url('../临床知识_files/u222_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:379px;
+    top:728px;
+    width:63px;
+    height:57px;
+}
+
+#u222_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:63px;
+    height:57px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u224 {
+    position:absolute;
+    left:356px;
+    top:728px;
+    width:110px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u225_normal {
+    background-image: url('../临床知识_files/u225_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:140px;
+    top:12px;
+    width:202px;
+    height:54px;
+}
+
+#u225_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:202px;
+    height:54px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:198px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,1014 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:361px;
+    top:153px;
+    width:239px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_normal {
+    background-image: url('../问医助手_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:486px;
+    height:806px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u3_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../问医助手_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:584px;
+    width:477px;
+    height:193px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:483px;
+    height:199px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:88px;
+    width:473px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u7 {
+    position:absolute;
+    left:-1px;
+    top:142px;
+    width:481px;
+    height:659px;
+    overflow:hidden;
+}
+
+#pd2u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:659px;
+    
+}
+
+.u8_normal {
+    background-image: url('../问医助手_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:479px;
+    height:324px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:479px;
+    height:324px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:154px;
+    width:475px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../问医助手_files/u8_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:0px;
+    top:294px;
+    width:479px;
+    height:324px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:479px;
+    height:324px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:154px;
+    width:475px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u12 {
+    position:absolute;
+    left:7px;
+    top:4px;
+    width:466px;
+    height:45px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd1u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:659px;
+    
+}
+
+.u13_normal {
+    background-image: url('../问医助手_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:302px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:302px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:143px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../问医助手_files/u13_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:0px;
+    top:298px;
+    width:480px;
+    height:302px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:302px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:143px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u17 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:469px;
+    height:51px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:659px;
+    
+}
+
+.u18_normal {
+    background-image: url('../问医助手_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:398px;
+    top:553px;
+    width:33px;
+    height:38px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:33px;
+    height:38px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u20 {
+    position:absolute;
+    left:399px;
+    top:594px;
+    width:41px;
+    height:41px;
+    overflow:hidden;
+}
+
+#pd1u20 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:41px;
+    height:41px;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:4px;
+    top:11px;
+    width:32px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u20 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:41px;
+    height:41px;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:4px;
+    top:10px;
+    width:150px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u23 {
+    position:absolute;
+    left:49px;
+    top:601px;
+    width:31px;
+    height:31px;
+    overflow:hidden;
+}
+
+#pd1u23 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+    
+}
+
+.u24 {
+    position:absolute;
+    left:5px;
+    top:6px;
+    width:20px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u23 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+    
+}
+
+.u25 {
+    position:absolute;
+    left:6px;
+    top:7px;
+    width:150px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u26 {
+    position:absolute;
+    left:111px;
+    top:34px;
+    width:261px;
+    height:541px;
+    overflow:hidden;
+}
+
+#pd3u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:261px;
+    height:541px;
+    
+}
+
+.u27_normal {
+    background-image: url('../问医助手_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:262px;
+    width:256px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../问医助手_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:-65px;
+    top:6px;
+    width:480px;
+    height:510px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u31 {
+    position:absolute;
+    left:59px;
+    top:80px;
+    width:102px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:261px;
+    height:541px;
+    
+}
+
+.u32_normal {
+    background-image: url('../问医助手_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:1px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+#u32_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:262px;
+    width:256px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../问医助手_files/u29_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:-65px;
+    top:6px;
+    width:480px;
+    height:510px;
+}
+
+#u34_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u36 {
+    position:absolute;
+    left:59px;
+    top:90px;
+    width:102px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd1u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:261px;
+    height:541px;
+    
+}
+
+.u37_normal {
+    background-image: url('../问医助手_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+#u37_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:262px;
+    width:256px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../问医助手_files/u29_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:-65px;
+    top:6px;
+    width:480px;
+    height:510px;
+}
+
+#u39_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u41 {
+    position:absolute;
+    left:59px;
+    top:90px;
+    width:102px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:261px;
+    height:541px;
+    
+}
+
+.u42_normal {
+    background-image: url('../问医助手_files/u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+#u42_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:260px;
+    height:540px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:262px;
+    width:256px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../问医助手_files/u29_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:-65px;
+    top:6px;
+    width:480px;
+    height:510px;
+}
+
+#u44_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u46 {
+    position:absolute;
+    left:48px;
+    top:100px;
+    width:102px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u47_normal {
+    background-image: url('../问医助手_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:35px;
+    top:560px;
+    width:52px;
+    height:37px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:52px;
+    height:37px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:48px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u49 {
+    position:absolute;
+    left:373px;
+    top:11px;
+    width:92px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u50 {
+    position:absolute;
+    left:11px;
+    top:11px;
+    width:88px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u51_normal {
+    background-image: url('../问医助手_files/u51_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:8px;
+    top:77px;
+    width:469px;
+    height:62px;
+}
+
+#u51_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:469px;
+    height:62px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:465px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../问医助手_files/u29_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:283px;
+    top:-195px;
+    width:480px;
+    height:510px;
+}
+
+#u53_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u55 {
+    position:absolute;
+    left:81px;
+    top:82px;
+    width:335px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u56 {
+    position:absolute;
+    left:11px;
+    top:82px;
+    width:60px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u57 {
+    position:absolute;
+    left:426px;
+    top:77px;
+    width:51px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

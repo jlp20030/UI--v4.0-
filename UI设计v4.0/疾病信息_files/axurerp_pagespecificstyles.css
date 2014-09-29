@@ -1,0 +1,2862 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../疾病信息_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:-480px;
+    top:491px;
+    width:475px;
+    height:230px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:475px;
+    height:230px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:471px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../疾病信息_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:486px;
+    height:806px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:800px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u6 {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:481px;
+    height:612px;
+    overflow:hidden;
+}
+
+#pd7u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u7_normal {
+    background-image: url('../疾病信息_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u7_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_container {
+    position:absolute;
+    left:76px;
+    top:161px;
+    width:315px;
+    height:270px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:315px;
+    height:270px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:127px;
+    width:311px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u11 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u12 {
+    position:absolute;
+    left:132px;
+    top:80px;
+    width:82px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u13 {
+    position:absolute;
+    left:240px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u14_normal {
+    background-image: url('../疾病信息_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u17_normal {
+    background-image: url('../疾病信息_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:0px;
+    top:144px;
+    width:480px;
+    height:510px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../疾病信息_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:361px;
+    top:89px;
+    width:84px;
+    height:27px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:27px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u21 {
+    position:absolute;
+    left:348px;
+    top:82px;
+    width:108px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd6u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u22_normal {
+    background-image: url('../疾病信息_files/u7_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_container {
+    position:absolute;
+    left:76px;
+    top:132px;
+    width:315px;
+    height:270px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:315px;
+    height:270px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:127px;
+    width:311px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u26 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u27 {
+    position:absolute;
+    left:132px;
+    top:51px;
+    width:82px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u28 {
+    position:absolute;
+    left:240px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u29_normal {
+    background-image: url('../疾病信息_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u31 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u32_normal {
+    background-image: url('../疾病信息_files/u17_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:0px;
+    top:123px;
+    width:480px;
+    height:510px;
+}
+
+#u32_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../疾病信息_files/u19_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:360px;
+    top:61px;
+    width:84px;
+    height:27px;
+}
+
+#u34_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:27px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u36 {
+    position:absolute;
+    left:342px;
+    top:54px;
+    width:116px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd5u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u37_normal {
+    background-image: url('../疾病信息_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u37_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_container {
+    position:absolute;
+    left:76px;
+    top:161px;
+    width:320px;
+    height:270px;
+}
+
+#u39_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:270px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:127px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u41 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u42 {
+    position:absolute;
+    left:142px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u43 {
+    position:absolute;
+    left:244px;
+    top:80px;
+    width:125px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u44_normal {
+    background-image: url('../疾病信息_files/u14_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u44_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u46 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u47_normal {
+    background-image: url('../疾病信息_files/u17_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:0px;
+    top:144px;
+    width:480px;
+    height:510px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../疾病信息_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:387px;
+    top:84px;
+    width:81px;
+    height:34px;
+}
+
+#u49_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u51 {
+    position:absolute;
+    left:387px;
+    top:80px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd4u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u52_normal {
+    background-image: url('../疾病信息_files/u37_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u52_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_container {
+    position:absolute;
+    left:76px;
+    top:132px;
+    width:320px;
+    height:270px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:270px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:127px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u56 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u57 {
+    position:absolute;
+    left:142px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u58 {
+    position:absolute;
+    left:244px;
+    top:51px;
+    width:125px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u59_normal {
+    background-image: url('../疾病信息_files/u29_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u59_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u61 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u62_normal {
+    background-image: url('../疾病信息_files/u17_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:0px;
+    top:92px;
+    width:480px;
+    height:510px;
+}
+
+#u62_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../疾病信息_files/u49_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:386px;
+    top:58px;
+    width:81px;
+    height:34px;
+}
+
+#u64_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u66 {
+    position:absolute;
+    left:386px;
+    top:54px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd3u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u67_normal {
+    background-image: url('../疾病信息_files/u67_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u67_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../疾病信息_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:76px;
+    top:246px;
+    width:309px;
+    height:249px;
+}
+
+#u69_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:309px;
+    height:249px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:116px;
+    width:305px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../疾病信息_files/u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:53px;
+}
+
+#u71_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:53px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u73 {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:53px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u74 {
+    position:absolute;
+    left:6px;
+    top:259px;
+    width:474px;
+    height:298px;
+    overflow:hidden;
+}
+
+#pd0u74 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:474px;
+    height:298px;
+    
+}
+
+.u75_normal {
+    background-image: url('../疾病信息_files/u75_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+#u75_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:469px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u77 {
+    position:absolute;
+    left:423px;
+    top:10px;
+    width:35px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u78 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u79 {
+    position:absolute;
+    left:142px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u80 {
+    position:absolute;
+    left:277px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u81_normal {
+    background-image: url('../疾病信息_files/u14_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u81_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u83 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u84_normal {
+    background-image: url('../疾病信息_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:26px;
+    top:179px;
+    width:342px;
+    height:363px;
+}
+
+#u84_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:342px;
+    height:363px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:174px;
+    width:338px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../疾病信息_files/u49_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:379px;
+    top:85px;
+    width:81px;
+    height:34px;
+}
+
+#u86_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u88 {
+    position:absolute;
+    left:379px;
+    top:80px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u89_normal {
+    background-image: url('../疾病信息_files/u67_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u89_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../疾病信息_files/u69_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:76px;
+    top:217px;
+    width:309px;
+    height:249px;
+}
+
+#u91_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:309px;
+    height:249px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:116px;
+    width:305px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../疾病信息_files/u71_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:53px;
+}
+
+#u93_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:53px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u95 {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:53px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u96 {
+    position:absolute;
+    left:6px;
+    top:230px;
+    width:474px;
+    height:298px;
+    overflow:hidden;
+}
+
+#pd0u96 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:474px;
+    height:298px;
+    
+}
+
+.u97_normal {
+    background-image: url('../疾病信息_files/u75_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+#u97_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:469px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u99 {
+    position:absolute;
+    left:423px;
+    top:10px;
+    width:35px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u100 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u101 {
+    position:absolute;
+    left:142px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u102 {
+    position:absolute;
+    left:277px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u103_normal {
+    background-image: url('../疾病信息_files/u29_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u103_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u105 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u106_normal {
+    background-image: url('../疾病信息_files/u17_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:0px;
+    top:178px;
+    width:480px;
+    height:510px;
+}
+
+#u106_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:510px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../疾病信息_files/u49_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:379px;
+    top:56px;
+    width:81px;
+    height:34px;
+}
+
+#u108_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u110 {
+    position:absolute;
+    left:379px;
+    top:52px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd1u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u111_normal {
+    background-image: url('../疾病信息_files/u111_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:480px;
+    height:82px;
+}
+
+#u111_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u113 {
+    position:absolute;
+    left:14px;
+    top:80px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u114 {
+    position:absolute;
+    left:155px;
+    top:80px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u115 {
+    position:absolute;
+    left:260px;
+    top:80px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u116_normal {
+    background-image: url('../疾病信息_files/u116_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:76px;
+    top:246px;
+    width:310px;
+    height:280px;
+}
+
+#u116_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:310px;
+    height:280px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:132px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../疾病信息_files/u71_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:53px;
+}
+
+#u118_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:53px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u120 {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:480px;
+    height:53px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u121 {
+    position:absolute;
+    left:6px;
+    top:259px;
+    width:474px;
+    height:298px;
+    overflow:hidden;
+}
+
+#pd0u121 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:474px;
+    height:298px;
+    
+}
+
+.u122_normal {
+    background-image: url('../疾病信息_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+#u122_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:469px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u124 {
+    position:absolute;
+    left:423px;
+    top:10px;
+    width:35px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u125_normal {
+    background-image: url('../疾病信息_files/u14_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+#u125_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u127 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:70px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u128_normal {
+    background-image: url('../疾病信息_files/u84_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:26px;
+    top:179px;
+    width:342px;
+    height:363px;
+}
+
+#u128_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:342px;
+    height:363px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:174px;
+    width:338px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../疾病信息_files/u49_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:362px;
+    top:87px;
+    width:81px;
+    height:34px;
+}
+
+#u130_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u132 {
+    position:absolute;
+    left:368px;
+    top:80px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:481px;
+    height:612px;
+    
+}
+
+.u133_normal {
+    background-image: url('../疾病信息_files/u111_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:0px;
+    top:41px;
+    width:480px;
+    height:82px;
+}
+
+#u133_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:82px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u135 {
+    position:absolute;
+    left:14px;
+    top:51px;
+    width:118px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u136 {
+    position:absolute;
+    left:155px;
+    top:51px;
+    width:95px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u137 {
+    position:absolute;
+    left:260px;
+    top:51px;
+    width:92px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u138_normal {
+    background-image: url('../疾病信息_files/u116_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:76px;
+    top:217px;
+    width:310px;
+    height:280px;
+}
+
+#u138_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:310px;
+    height:280px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:132px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../疾病信息_files/u71_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:53px;
+}
+
+#u140_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:53px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u142 {
+    position:absolute;
+    left:0px;
+    top:126px;
+    width:480px;
+    height:53px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u143 {
+    position:absolute;
+    left:6px;
+    top:230px;
+    width:474px;
+    height:298px;
+    overflow:hidden;
+}
+
+#pd0u143 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:474px;
+    height:298px;
+    
+}
+
+.u144_normal {
+    background-image: url('../疾病信息_files/u122_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+#u144_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:473px;
+    height:297px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:469px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u146 {
+    position:absolute;
+    left:423px;
+    top:10px;
+    width:35px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u147_normal {
+    background-image: url('../疾病信息_files/u29_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+#u147_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:41px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u149 {
+    position:absolute;
+    left:-7px;
+    top:0px;
+    width:487px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u150_normal {
+    background-image: url('../疾病信息_files/u84_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:26px;
+    top:179px;
+    width:342px;
+    height:363px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:342px;
+    height:363px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:174px;
+    width:338px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../疾病信息_files/u49_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:362px;
+    top:54px;
+    width:81px;
+    height:34px;
+}
+
+#u152_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:34px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u154 {
+    position:absolute;
+    left:362px;
+    top:50px;
+    width:83px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u155 {
+    position:absolute;
+    left:12px;
+    top:731px;
+    width:98px;
+    height:57px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u156 {
+    position:absolute;
+    left:242px;
+    top:731px;
+    width:98px;
+    height:57px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u157 {
+    position:absolute;
+    left:98px;
+    top:312px;
+    width:284px;
+    height:169px;
+    overflow:hidden;
+}
+
+#pd0u157 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:284px;
+    height:169px;
+    
+}
+
+.u158_normal {
+    background-image: url('../疾病信息_files/u158_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:283px;
+    height:168px;
+}
+
+#u158_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:283px;
+    height:168px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:76px;
+    width:279px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u160 {
+    position:absolute;
+    left:16px;
+    top:20px;
+    width:247px;
+    height:127px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u161_normal {
+    background-image: url('../疾病信息_files/u161_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:75px;
+}
+
+#u161_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:75px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u163 {
+    position:absolute;
+    left:11px;
+    top:12px;
+    width:118px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u164 {
+    position:absolute;
+    left:395px;
+    top:12px;
+    width:70px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u165_normal {
+    background-image: url('../疾病信息_files/u165_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:147px;
+    top:732px;
+    width:67px;
+    height:53px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:73px;
+    height:59px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:63px;
+    height:58px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../疾病信息_files/u167_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:382px;
+    top:732px;
+    width:57px;
+    height:56px;
+}
+
+#u167_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:57px;
+    height:56px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../疾病信息_files/u169_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:152px;
+    top:730px;
+    width:57px;
+    height:57px;
+}
+
+#u169_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:57px;
+    height:57px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u171 {
+    position:absolute;
+    left:125px;
+    top:728px;
+    width:107px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u172_normal {
+    background-image: url('../疾病信息_files/u172_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:380px;
+    top:732px;
+    width:61px;
+    height:52px;
+}
+
+#u172_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:61px;
+    height:52px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u174 {
+    position:absolute;
+    left:356px;
+    top:729px;
+    width:110px;
+    height:62px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u175_normal {
+    background-image: url('../疾病信息_files/u175_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:160px;
+    top:12px;
+    width:161px;
+    height:50px;
+}
+
+#u175_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:161px;
+    height:50px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:157px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
